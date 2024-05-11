@@ -4,7 +4,7 @@ var config = {
   // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
   // 每句话尽量不要超过15个字,不然展示效果可能不太好
   texts: [
-    "Dear Viet", //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+    "Dear Trong Viet", //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
     "My lovely boy", // 同上...
     "Today is a normal day like any other day",
     "I still remember the first words we texted each other",
@@ -13,7 +13,7 @@ var config = {
     "Ok!",
     "The lyrics are the words I want to tell you",
 
-    "Huynh~~",
+    "Tien Huynh~~",
   ],
   wish: "The nice guy and the stupid guy fall in love", //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
   // 时间的格式很重要哦，一定要是下面这个格式!!
